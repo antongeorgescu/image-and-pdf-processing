@@ -19,9 +19,9 @@ The main difference between neural networks and classification algorithms is tha
 
 #### References:
 
-(1) Review of Image Classification Algorithms Based on Convolutional Neural .... https://www.mdpi.com/2072-4292/13/22/4712.
-(2) Classifiers Comparison for Convolutional Neural Networks (CNNs) in .... https://ieeexplore.ieee.org/document/8958662.
-(3) A Survey of Image Classification Algorithms Based on Graph Neural Networks. https://link.springer.com/chapter/10.1007/978-981-16-3391-1\_22.
-(4) Convolutional Neural Networks — Image Classification w. Keras. https://www.learndatasci.com/tutorials/convolutional-neural-networks-image-classification/.
-(5) Neural Networks - Deep Leaning https://www.youtube.com/watch?v=CqOfi41LfDw&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1
+(1) Review of Image Classification Algorithms Based on Convolutional Neural .... https://www.mdpi.com/2072-4292/13/22/4712.    
+(2) Classifiers Comparison for Convolutional Neural Networks (CNNs) https://ieeexplore.ieee.org/document/8958662.    
+(3) A Survey of Image Classification Algorithms Based on Graph Neural Networks. https://link.springer.com/chapter/10.1007/978-981-16-3391-1\_22.     
+(4) Convolutional Neural Networks — Image Classification w. Keras. https://www.learndatasci.com/tutorials/convolutional-neural-networks-image-classification/.    
+(5) Neural Networks - Deep Leaning https://www.youtube.com/watch?v=CqOfi41LfDw&list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1    
 (6) But what is a neural network? https://www.youtube.com/watch?v=aircAruvnKk
