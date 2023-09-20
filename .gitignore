@@ -141,4 +141,5 @@ cython_debug/
 image-prediction/imagenet-cnn/*
 image-prediction/keras-retinanet/*
 data-samples/*
-image-prediction/keras-retinanet
+svm_linear_01.py
+knn_image_train_01.py
